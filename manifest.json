@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+
+  "name": "Mail Counter",
+  "description": "Mail Counter",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "refresh.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab"]
+}
